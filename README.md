@@ -9,3 +9,8 @@
 <br>
 
 ## API
+> <img src="https://img.shields.io/badge/google%20distance%20matrix%20api-F05032?style=for-the-badge&logo=google&logoColor=white">
+
+본 프로그램은 **Google Distance Matrix API** 를 활용해, 각 관광지간 **실시간 차량 이동 시간**을 계산하여 시스템에 반영한다.
+
+
