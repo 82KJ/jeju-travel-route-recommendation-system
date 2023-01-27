@@ -39,4 +39,8 @@
 
 자세한 알고리즘 설명은 [presentation.pdf](https://github.com/82KJ/jeju-travel-route-recommendation-system/blob/main/presentation.pdf)를 참고해주세요.
 
+## Result
+Result Sample (제주 북부 지방, 제주 남부 지방 중심 여행 경로)
+![image](https://user-images.githubusercontent.com/45115733/215099981-bcff6bb1-16c8-4fe8-bcd2-dad083363416.png)
 
+자세한 결과 분석은 [presentation.pdf](https://github.com/82KJ/jeju-travel-route-recommendation-system/blob/main/presentation.pdf)를 참고해주세요.
